@@ -1,2 +1,0 @@
-# blank
-removes all text
