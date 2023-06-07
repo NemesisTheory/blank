@@ -1,0 +1,9 @@
+{
+  "name": "blank",
+  "localizedName": "blank",
+  "author": "NemesisTheory",
+  "description": "removes all text",
+  "version": 0.1,
+  "minGameVersion": 140,
+  "hidden": true,
+}
